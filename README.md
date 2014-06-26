@@ -10,3 +10,8 @@ Follow the link above to get more details regarding the speed comparison.
 Running the code
 ----------------
 
+There are 2 ways of running the code:
+
+* via the executable jar (`java -jar`)
+* via maven
+
