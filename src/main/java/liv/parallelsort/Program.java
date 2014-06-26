@@ -18,7 +18,7 @@ public class Program {
             "1000000.txt"                };
 
     /** Attempt each sorting so many times. */
-    public static final int      N_TRIES = 100;
+    public static final int      N_TRIES = 1000;
 
     /** Sorting methods used. */
     private Sorter[]             sorting = new Sorter[] {new StandardSorter(), new ParallelSorter()};
